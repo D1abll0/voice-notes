@@ -1,0 +1,38 @@
+@import 'tailwindcss';
+
+@font-face
+{
+	font-family: 'ArialPixel';
+	src: url('./assets/fonts/ArialPixel.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+*{
+	font-family: monospace;
+	font-family: ArialPixel;
+	outline: none;
+}
+
+@layer base
+{
+
+	input[type="range"]
+	{
+		-webkit-appearance: none;
+		appearance: none;
+		border: 1px dashed black;
+		background: transparent;
+		outline: none;
+	}
+
+	input[type="range"]::-moz-range-track
+	{
+		-webkit-appearance: none;
+		appearance: none;
+		border: 1px dashed black;
+		background: transparent;
+		outline: none;
+	}
+}
