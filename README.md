@@ -3,16 +3,16 @@
 Voice notes that are transcribed and searched **entirely in your browser**.
 No server, no API keys, no account. Audio and notes never leave your device.
 
-**[Live demo](https://voice-notes-gules.vercel.app)** · Works offline after the first load.
+**[Live demo](https://voice-notes-gray.vercel.app)** · Works offline after the first load.
 
 ## Examples of voice recognition
-https://github.com/user-attachments/assets/df71b650-3220-40e9-b1f7-4889c750558b
+https://github.com/user-attachments/assets/f7efb19f-f777-4f93-b550-0244848999f4
 
-https://github.com/user-attachments/assets/041f3c89-bd4b-471f-a268-9043706d7e42
+https://github.com/user-attachments/assets/8120bbd1-a76e-49e2-80b1-bad84189d631
 
-https://github.com/user-attachments/assets/bef55c6b-1b96-40f3-9bb0-16c93835a98a
+https://github.com/user-attachments/assets/29566b2b-55aa-4de8-aa7f-08ce40799ff2
 
-https://github.com/user-attachments/assets/822796bb-1e88-449c-8876-1d60d9c1ca0e
+https://github.com/user-attachments/assets/dccb2978-38bd-4e7c-87fe-524f29d4ac59
 
 ## Features
 - Record from the microphone with pause and resume, or type a note with an optional title
